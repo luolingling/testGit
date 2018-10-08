@@ -1,4 +1,4 @@
 hello world
 luolingling
-。。。。
-以以以以以   
+00000000000
+11111111111
